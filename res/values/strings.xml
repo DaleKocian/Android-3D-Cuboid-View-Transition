@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Cuboid</string>
+    <string name="cube_side_1_txt">Side 1:Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed fringilla sodales
+        massa, at sollicitudin leo egestas in. Morbi sagittis placerat ipsum at convallis.
+    </string>
+    <string name="cube_side_2_txt">Side 2: Cras a elit justo. Aliquam quis congue odio. Pellentesque non ante velit.
+        Nulla placerat mauris erat. Fusce convallis placerat laoreet
+    </string>
+    <string name="cube_side_3_txt">Side 3: Duis accumsan sodales convallis. Integer lobortis sagittis metus, sit amet
+        volutpat neque euismod nec.
+    </string>
+    <string name="cube_side_4_txt">Side 4:Nam diam ante, rutrum vel adipiscing vel, euismod in magna</string>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="CustomSide">
+        <item name="android:layout_width">@dimen/layout_width</item>
+        <item name="android:layout_height">@dimen/layout_height</item>
+        <item name="android:paddingBottom">@dimen/paddingBottom</item>
+        <item name="android:textSize">@dimen/textSize</item>
+        <item name="android:textColor">@color/text_color</item>
+    </style>
+</resources>
